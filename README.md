@@ -12,3 +12,6 @@ Opisy modułów:
 -moduł lista_funkcji: zawiera listę funkcji, które zostaną wykorzystane do zescrapowania danych bezpośrednio z ogłoszenia, takich jak m.in. adres, liczba pokoi
 
 -main: wykorzystuje opisane wyżej moduły, by pozyskać listę linków z ogłoszeniami. Scraper wchodzi w każdy link, wykorzystuje listę_funkcji do zebrania danych w DataFrame (w przypadku braku danych wpisze "N/A"). Po wykonaniu scrapowania program zapyta o chęć zapisania wyników do xlsx
+
+Zabrane rekordy zawierają informacje o:
+['Tytuł','Cena','Cena za metr2','Adres','Powierzchnia','Liczba pokoi','Piętro','Czynsz','Forma własności', 'Stan wykończenia','Balkon / ogród / taras', 'Miejsce parkingowe', 'Ogrzewanie','Rynek','Winda','Link']
