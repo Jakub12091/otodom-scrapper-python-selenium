@@ -21,6 +21,7 @@ Kolumna "Piętro", która często zawiera informację o piętrze oraz ilości pi
 Kolumna "Balkon_ogród_taras" rozbita zostanie na trzy kolumny "Balkon", "Ogródek", "Taras". Wartości przechowywane przez te kolumny to 1 w przypadku występowania charakterystyki, 0 w przypadku jej braku, pd.NA w przypadku braku danych. 
 
 Kolumny w DataFrame po oczyszczeniu:
+
 ![image](https://user-images.githubusercontent.com/115424802/227053843-cc32e835-5d43-401e-8bb3-9f4dc4ac6894.png)
 
 W związku ze zmianą dtypes z rekordów znikną oznaczenia waluty czy powierzchni (zł, m²). Przykładowa baza po imporcie do xlsx przentuje się następująco:
