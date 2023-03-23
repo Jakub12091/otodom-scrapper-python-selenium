@@ -25,6 +25,4 @@ Kolumny w DataFrame po oczyszczeniu:
 ![image](https://user-images.githubusercontent.com/115424802/227053843-cc32e835-5d43-401e-8bb3-9f4dc4ac6894.png)
 
 W związku ze zmianą dtypes z rekordów znikną oznaczenia waluty czy powierzchni (zł, m²). Przykładowa baza po imporcie do xlsx przentuje się następująco:
-![image](https://user-images.githubusercontent.com/115424802/227054867-d5f87533-c298-46ae-9060-659878b33ba8.png)
-
-
+![image](https://user-images.githubusercontent.com/115424802/227338297-1ee2ba84-6a22-4ad8-8256-6458000f9929.png)
